@@ -1,0 +1,10 @@
+# 备份和临时文件
+*.bak
+*.orig
+*.tmp
+*~
+.pinyin-ime-backup-*/
+
+# 系统文件
+.DS_Store
+Thumbs.db
